@@ -1,5 +1,5 @@
 (default_hometown boston)
-(default_money 1000000)
+(default_money 999999999)
 (char_names ../ui/eng/locale_charnames.dta)
 (band_names ../ui/eng/locale_bandnames.dta)
 (default_difficulty kDifficultyExpert)
