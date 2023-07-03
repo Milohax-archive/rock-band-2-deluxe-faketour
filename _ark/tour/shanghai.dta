@@ -24,7 +24,7 @@
 		BWT_BUZZ_MEDIUMBLOCKPLUS)
 	(allmara
 		(songs
-			(band 15)
+			(band 15))
 		(fame (world 900))
 		(money_per_star 120)
 		(award_item tour_bwt_complete)
