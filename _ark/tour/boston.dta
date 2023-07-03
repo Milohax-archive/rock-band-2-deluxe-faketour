@@ -4,46 +4,46 @@
 		(songs
 			 missqueen)
 		(display_song TRUE)
-		(fame (world 3))
-		(money_per_star 5))
+		(fame (world 3000000))
+		(money_per_star 500000))
 		
 	(any
 		(songs
 			any
 			any)
-		(fame (world 3))
-		(money_per_star 5))
+		(fame (world 30000000))
+		(money_per_star 500000))
 	(jukebox
 		(songs any)
 		(item tour_bwt_complete)
-		(money_per_star 1)))
+		(money_per_star 100000)))
 (big_club
 	big_club_06
 	(learntofly
 		(songs
 			 learntofly)
 		(display_song TRUE)
-		(fame (town 6))
-		(money_per_star 25))
+		(fame (town 60000))
+		(money_per_star 25000000))
 	
 	(any
 		(songs
 			any
 			any
 			any)
-		(fame (town 6))
-		(money_per_star 25))
+		(fame (town 600000))
+		(money_per_star 2500000))
 	(localartists
 		(songs
 			spiritinthesky
 			feelthepain
 			wheredyougo)
-		(fame (town 12))
-		(money_per_star 25))
+		(fame (town 120000))
+		(money_per_star 2500000))
 	(jukebox
 		(songs any)
 		(item tour_bwt_complete)
-		(money_per_star 1)))
+		(money_per_star 100000000)))
 (theater
 	theater_05
 	(pleasure
@@ -51,9 +51,9 @@
 			 pleasure)
 		(display_song TRUE)
 		(fame
-			(town 30)
-			(world 100))
-		(money_per_star 120))
+			(town 30000000)
+			(world 1000000))
+		(money_per_star 12000000))
 	
 	(any
 		(songs
@@ -62,9 +62,9 @@
 			any
 			any)
 		(fame
-			(town 30)
-			(world 100))
-		(money_per_star 80))
+			(town 300000)
+			(world 1000000))
+		(money_per_star 800000))
 	(hmxmara
 		(songs
 			welcometothe
@@ -77,9 +77,9 @@
 			shouldertotheplow
 			visions)
 		(fame
-			(town 30)
-			(world 200))
-		(money_per_star 80)
+			(town 3000000)
+			(world 20000000))
+		(money_per_star 8000000)
 		BWT_BUZZ_MEDIUMBLOCK)
 	(alternativemara
 		(songs
@@ -89,9 +89,9 @@
 			teenageriot
 			everlong)
 		(fame
-			(town 30)
-			(world 200))
-		(money_per_star 80)
+			(town 3000000)
+			(world 20000000))
+		(money_per_star 8000000)
 		BWT_BUZZ_MEDIUMBLOCK
 		(char_unlock
 			(token char_unlock_cityshirts_rockband1)
